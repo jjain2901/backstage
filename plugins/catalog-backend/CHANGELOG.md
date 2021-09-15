@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog-backend
 
+## 0.13.8
+
+### Patch Changes
+
+- a41ac6b95: Fill in most missing type exports.
+- 96fef17a1: Upgrade git-parse-url to v11.6.0
+- Updated dependencies
+  - @backstage/integration@0.6.4
+  - @backstage/backend-common@0.9.3
+
 ## 0.13.7
 
 ### Patch Changes

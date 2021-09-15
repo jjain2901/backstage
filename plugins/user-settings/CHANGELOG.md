@@ -1,5 +1,14 @@
 # @backstage/plugin-user-settings
 
+## 0.3.5
+
+### Patch Changes
+
+- 6082b9178: Fix import for `createPlugin` in example snippet
+- Updated dependencies
+  - @backstage/core-components@0.4.2
+  - @backstage/core-plugin-api@0.1.8
+
 ## 0.3.4
 
 ### Patch Changes

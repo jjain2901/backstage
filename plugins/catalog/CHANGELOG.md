@@ -1,5 +1,18 @@
 # @backstage/plugin-catalog
 
+## 0.6.15
+
+### Patch Changes
+
+- 96fef17a1: Upgrade git-parse-url to v11.6.0
+- e95b379d5: Deprecated `Router` in favor of using the plugin extensions.
+- d5b23612c: Display entity titles on `EntityLayout` if defined
+- Updated dependencies
+  - @backstage/core-components@0.4.2
+  - @backstage/integration@0.6.4
+  - @backstage/core-plugin-api@0.1.8
+  - @backstage/plugin-catalog-react@0.4.6
+
 ## 0.6.14
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/core-app-api
 
+## 0.1.13
+
+### Patch Changes
+
+- 671015f13: Switch to using utilities from `@backstage/version-bridge'.
+- Updated dependencies
+  - @backstage/core-components@0.4.2
+  - @backstage/core-plugin-api@0.1.8
+
 ## 0.1.12
 
 ### Patch Changes

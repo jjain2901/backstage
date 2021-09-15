@@ -1,5 +1,14 @@
 # @backstage/plugin-newrelic
 
+## 0.3.4
+
+### Patch Changes
+
+- 52a5a4637: Added pagination and searching to the table
+- Updated dependencies
+  - @backstage/core-components@0.4.2
+  - @backstage/core-plugin-api@0.1.8
+
 ## 0.3.3
 
 ### Patch Changes

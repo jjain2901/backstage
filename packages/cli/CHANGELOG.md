@@ -1,5 +1,12 @@
 # @backstage/cli
 
+## 0.7.12
+
+### Patch Changes
+
+- d835d112f: replace the deprecated file-loader for fonts with assets module
+- 15e324ce6: Set the default TZ (Timezone) env for the test command to be UTC so any date related tests are consistent across timezones.
+
 ## 0.7.11
 
 ### Patch Changes
